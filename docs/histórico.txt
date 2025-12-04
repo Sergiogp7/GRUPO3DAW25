@@ -1,7 +1,7 @@
-Fichero "histórico de tareas realizadas" para el proyecto de alimentos
+Fichero "histórico de tareas realizadas" para el proyecto de alimentos.
 Creado por Raúl Vera Trashorras 2ºDAW
 
-- Sergio G. crear el repositorio en github y agrega los integrantes al mismo.
+- Sergio G. crea el repositorio en github y agrega los integrantes al mismo.
 - Sergio G. crea el README y añade el proyecto base al repositorio.
 - Raúl y Sergio C. realizan un pull del repositorio.
 - Sergio C. reestructura el proyecto y sube el script sql.
