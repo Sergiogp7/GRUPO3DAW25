@@ -1,0 +1,16 @@
+valoraciones.txt
+Sergio García Pedrero
+Rol: Administrador del repositorio en GITHUB, subida de archivos de la vista y del front-end. Recopilación de valoraciones.
+El proceso de administración del repositorio y la gestión de las partes asignadas del proyecto resultó ser sencillo y directo, permitiendo una integración fluida de los archivos. El principal aprendizaje se centró en la coordinación de las subidas con Git para evitar conflictos.
+
+Sergio Campos Delgados
+Rol: Despliegue de la aplicación en el hosting alwaysdata y configuración del Modelo. Creación de la base de datos `sergiocd_alimentos32025` y ejecución del script SQL para crear la tabla `alimentos`. Encargado de los comandos SSH y GIT para el despliegue en el hosting y elaboración del documento `instalacion.txt`.
+La experiencia de desplegar y configurar la base de datos en alwaysdata fue muy sencilla ya que conocía la herramienta y la recomendó en proyectos anteriores. Aunque tuvo que realizar la gestión de la configuración del entorno, el resultado final facilitó la comprensión práctica y su interconexión con la base de datos. Se destaca la comodidad en el trabajo cooperativo y la función de liderazgo y organización, lo que permitió guiar eficientemente la fase de despliegue.
+
+Él opina que es un buen proyecto, buena forma de desplegar con la aplicación, valora que se haya realizado de la misma forma que se despliega cualquier proyecto real y como dato a mejorar aumentar la dificultad añadiendo algo de programación real.
+Raul Veras Trashorras
+Rol: Asumir el controlador frontal, archivo con la clase controlador, y el archivo de configuración, modificar el código del archivo Config.php
+El trabajo en la capa del controlador ha sido el núcleo del código PHP en el proyecto. Fue necesario para asegurar que el flujo de la aplicación fuera el correcto. La comunicación para ajustar los parámetros de `Config.php` con el compañero de hosting fue ejemplar, demostrando una gran capacidad de trabajo en equipo y coordinación para resolver dependencias esenciales en el proyecto.
+
+Él opina que fue muy sencillo porque tuvo que cambiar pocos parámetros y le hubiera gustado algo más de dificultad, algún reto, eso respecto a su trabajo. 
+Respecto al trabajo en equipo opina que trabajamos muy bien con buena organización y comunicación.
