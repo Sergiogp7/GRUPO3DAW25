@@ -1,0 +1,10 @@
+Fichero "histórico de tareas realizadas" para el proyecto de alimentos
+Creado por Raúl Vera Trashorras 2ºDAW
+
+- Sergio G. crear el repositorio en github y agrega los integrantes al mismo.
+- Sergio G. crea el README y añade el proyecto base al repositorio.
+- Raúl y Sergio C. realizan un pull del repositorio.
+- Sergio C. reestructura el proyecto y sube el script sql.
+- Sergio C. crea BBDD y crea la tabla con el script.
+- Raúl actualiza el archivo config.php con los datos de la nueva BBDD.
+- Sergio C. se conecta por SSH, se descarga el proyecto y modifica hosting para dar una nueva URL.
