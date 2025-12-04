@@ -1,0 +1,13 @@
+Fichero de instalacion para el proyecto de alimentos
+Creado por Sergio Campos Delgado 2ºDAW
+
+  - Primero creo la base de datos
+
+  - Despues en phpMyAdmin uso el script sql para crear la tabla donde se trabajara (el script esta en /sql/script.sql)
+
+  - Posterirormente creo el la carpeta donde se desplegará el proyecto, 
+    para ello me conecto por ssh al hosting y uso el siguiente comando para traer el proyecto:
+    git clone https://github.com/Sergiogp7/GRUPO3DAW25.git
+
+  - Por ultimo en el panel de administracion creo el enlace para acceder al proyecto y lo vinculo a la carpeta
+    URL: https://sergiocd.alwaysdata.net/alimentos/
